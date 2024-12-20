@@ -1,6 +1,6 @@
 # Chimera: A Powerful Ensemble Model with Deep Learning and Reinforcement Learning
 
-![image](https://github.com/user-attachments/assets/ab71e72d-ebfa-4822-af91-3cff1ef002cc)
+![image](https://github.com/user-attachments/assets/f5865abd-2174-4b9a-b4ce-37350f29677d)
 
 
 ## Introduction  
